@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bb8b39bf-21bd-495a-9eec-1dc0fd2cd1df" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/jdatepicker_1_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/twilio_9_2_3_jar_with_dependencies.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PI.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagini/cabrioLogo.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagini/cabrioMercedes/mercedesAlbCabrio.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagini/cabrioMercedes/mercedesAlbCabrio1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagini/cabrioMercedes/mercedesAlbCabrio1Principal.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagini/cabrioMercedes/mercedesAlbCabrioPrincipal.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagini/cabrioMercedes/mercedesAlbSpateCabrio.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagini/cabrioMercedes/mercedesAlbSpateCabrio1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagini/cabrioMercedes/mercedesInteriorFataBejCabrio.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagini/cabrioMercedes/mercedesInteriorFataBejCabrio1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagini/cabrioMercedes/mercedesInteriorFataNegruCabrio.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagini/cabrioMercedes/mercedesInteriorFataNegruCabrio1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagini/cabrioMercedes/mercedesInteriorSpateBejCabrio.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagini/cabrioMercedes/mercedesInteriorSpateBejCabrio1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagini/cabrioMercedes/mercedesInteriorSpateNegruCabrio.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagini/cabrioMercedes/mercedesInteriorSpateNegruCabrio1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagini/cabrioMercedes/mercedesJante18Cabrio.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagini/cabrioMercedes/mercedesJante19Cabrio.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagini/cabrioMercedes/mercedesNegruCabrio.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagini/cabrioMercedes/mercedesNegruCabrio1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagini/cabrioMercedes/mercedesNegruSpateCabrio.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagini/cabrioMercedes/mercedesNegruSpateCabrio1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagini/cabrioMercedes/mercedesVisiniuCabrio1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagini/cabrioMercedes/mercedesVisiniuSpateCabrio1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagini/combiLogo.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagini/combiMercedes/mercedesAlbCombi.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagini/combiMercedes/mercedesAlbCombiPrincipal.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagini/combiMercedes/mercedesAlbSpateCombi.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagini/combiMercedes/mercedesInteriorFataBejCombi.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagini/combiMercedes/mercedesInteriorFataNegruCombi.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagini/combiMercedes/mercedesInteriorSpateBejCombi.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagini/combiMercedes/mercedesInteriorSpateNegruCombi.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagini/combiMercedes/mercedesJante18Combi.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagini/combiMercedes/mercedesJante19Combi.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagini/combiMercedes/mercedesNegruCombi.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagini/combiMercedes/mercedesNegruSpateCombi.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagini/compactLogo.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagini/compactaMercedes/mercedesAlbCompacta.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagini/compactaMercedes/mercedesAlbCompactaPrincipal.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagini/compactaMercedes/mercedesAlbSpateCompacta.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagini/compactaMercedes/mercedesInteriorFataNegruCompacta.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagini/compactaMercedes/mercedesInteriorSpateNegruCompacta.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagini/compactaMercedes/mercedesJante17Compacta.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagini/compactaMercedes/mercedesJante18Compacta.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagini/compactaMercedes/mercedesJante19Compacta.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagini/compactaMercedes/mercedesNegruCompacta.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagini/compactaMercedes/mercedesNegruSpateCompacta.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagini/coupeLogo.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagini/coupeMercedes/1jante19Coupe.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagini/coupeMercedes/albCoupe.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagini/coupeMercedes/albCoupePrincipal.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagini/coupeMercedes/albSpateCoupe.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagini/coupeMercedes/interiorFataNegruCoupe.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagini/coupeMercedes/interiorFataRosuCoupe.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagini/coupeMercedes/interiorSpateNegruCoupe.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagini/coupeMercedes/interiorSpateRosuCoupe.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagini/coupeMercedes/jante19Coupe.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagini/coupeMercedes/jante20Coupe.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagini/coupeMercedes/negruCoupe.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagini/coupeMercedes/negruSpateCoupe.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagini/mercedeslogo.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagini/suvLogo.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagini/suvMercedes/1albSpateSuv.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagini/suvMercedes/1albSuv.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagini/suvMercedes/1albSuvPrincipal.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagini/suvMercedes/1interiorFataBejSuv.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagini/suvMercedes/1interiorFataNegruSuv.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagini/suvMercedes/1interiorSpateBejSuv.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagini/suvMercedes/1interiorSpateNegruSuv.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagini/suvMercedes/1janteSuv1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagini/suvMercedes/1janteSuv2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagini/suvMercedes/1jantesuv.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagini/suvMercedes/1negruSpateSuv.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagini/suvMercedes/1negruSuv.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagini/suvMercedes/albSpateSuv.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagini/suvMercedes/albSuv.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagini/suvMercedes/albSuvPrincipal.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagini/suvMercedes/interiorFataSuvNegru.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagini/suvMercedes/interiorSpateSuvNegru.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagini/suvMercedes/jante17Suv.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagini/suvMercedes/jante18Suv.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagini/suvMercedes/negruSpateSuv.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagini/suvMercedes/negruSuv.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Comunicare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GUIAbout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GUIAdaugaProdus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GUIAdmin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GUIAdminModificari.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GUIConf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GUIConfNelogat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GUILogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GUIMainPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GUIMainPageLogat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GUIOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GUIRaport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GUIRegister.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GUIStergeProdus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GUIUpdateProdus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GUIViewProgramari.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Produs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/User.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LvVr9V1uD2JRvtSu49gvOS52rA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Termure/Desktop/jdatepicker-1.3.4.jar",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb8b39bf-21bd-495a-9eec-1dc0fd2cd1df" name="Changes" comment="" />
+      <created>1676751740284</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676751740284</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
