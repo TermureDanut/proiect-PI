@@ -33,13 +33,14 @@ public class GUIMainPageLogat extends JFrame{
         Image imagineIconita = imgIconita.getImage();
         Image imgFinal = imagineIconita.getScaledInstance(249, 140, Image.SCALE_SMOOTH);
         imgIconita = new ImageIcon(imgFinal);
-        iconita = new JLabel(imgIconita);
+        iconita = new JLabel();
         iconita.setBackground(Color.white);
+        iconita.setBackground(Color.BLACK);
         iconita.setSize(new Dimension(249, 140));
         iconita.setBounds(14, 14, 249, 140);
         add(iconita);
 
-        info = new JTextArea("Mercedes-Benz");
+        info = new JTextArea("Masini custom. Aplicatie pentru configurare.");
         info.setSize(new Dimension(982, 54));
         info.setBounds(290, 84, 982, 54);
         info.setForeground(Color.WHITE);
